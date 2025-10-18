@@ -1,4 +1,4 @@
-# Gestion des Événements Hybrides
+# 🎉 Gestion des Événements Hybrides
 
 ---
 
